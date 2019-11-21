@@ -24,6 +24,7 @@ public class App
 			}
 		}
 		System.out.println();
+		scan.close();
 	}
 }
 
