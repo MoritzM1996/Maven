@@ -1,6 +1,13 @@
 package de.hfu;
 import java.util.*;
 
+/**
+ * Das ist ein Kommentar
+ * @author muell
+ *
+ */
+
+
 public class App
 {
 	public static void main(String[] args)
